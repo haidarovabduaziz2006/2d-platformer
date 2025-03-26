@@ -1,3 +1,4 @@
+![1000079179](https://github.com/user-attachments/assets/167efaaa-d996-4ea9-8013-011ea2d139ec)
 # 2D-Платформер  
 
 ## О проекте  
